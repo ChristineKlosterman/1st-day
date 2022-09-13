@@ -1,0 +1,15 @@
+/Users/christineklosterman/coding/1st-day/bin/Debug/net6.0/1st-day
+/Users/christineklosterman/coding/1st-day/bin/Debug/net6.0/1st-day.deps.json
+/Users/christineklosterman/coding/1st-day/bin/Debug/net6.0/1st-day.runtimeconfig.json
+/Users/christineklosterman/coding/1st-day/bin/Debug/net6.0/1st-day.dll
+/Users/christineklosterman/coding/1st-day/bin/Debug/net6.0/1st-day.pdb
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/1st-day.csproj.AssemblyReference.cache
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/1st-day.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/1st-day.AssemblyInfoInputs.cache
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/1st-day.AssemblyInfo.cs
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/1st-day.csproj.CoreCompileInputs.cache
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/1st-day.dll
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/refint/1st-day.dll
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/1st-day.pdb
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/1st-day.genruntimeconfig.cache
+/Users/christineklosterman/coding/1st-day/obj/Debug/net6.0/ref/1st-day.dll
